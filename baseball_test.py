@@ -3,8 +3,11 @@ import numpy as np
 from matplotlib import pyplot as plt
 
 
-STARTING_IMG = 'baseball2.PNG'
-OTHER_IMG = 'baseball3.PNG'
+#STARTING_IMG = 'baseball2.PNG'
+STARTING_IMG = 'bbf.png'
+#OTHER_IMG = 'baseball3.PNG'
+OTHER_IMG = 'bbf_in_scene.png'
+
 def test1():
     img1 = cv2.imread(STARTING_IMG, 0)
     img2 = cv2.imread(OTHER_IMG)
