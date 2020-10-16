@@ -1,0 +1,1402 @@
+[
+    {
+        "image": "1.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 638,
+                    "height": 596
+                }
+            }
+        ]
+    },
+    {
+        "image": "10.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 482,
+                    "height": 458
+                }
+            }
+        ]
+    },
+    {
+        "image": "100.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 304,
+                    "height": 296
+                }
+            }
+        ]
+    },
+    {
+        "image": "11.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 274,
+                    "height": 270
+                }
+            }
+        ]
+    },
+    {
+        "image": "12.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 346,
+                    "height": 336
+                }
+            }
+        ]
+    },
+    {
+        "image": "13.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 498,
+                    "height": 462
+                }
+            }
+        ]
+    },
+    {
+        "image": "14.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 262,
+                    "height": 252
+                }
+            }
+        ]
+    },
+    {
+        "image": "15.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 244,
+                    "height": 246
+                }
+            }
+        ]
+    },
+    {
+        "image": "16.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 408,
+                    "height": 384
+                }
+            }
+        ]
+    },
+    {
+        "image": "17.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 258,
+                    "height": 238
+                }
+            }
+        ]
+    },
+    {
+        "image": "18.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 304,
+                    "height": 282
+                }
+            }
+        ]
+    },
+    {
+        "image": "19.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 384,
+                    "height": 368
+                }
+            }
+        ]
+    },
+    {
+        "image": "2.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 366,
+                    "height": 316
+                }
+            }
+        ]
+    },
+    {
+        "image": "20.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 256,
+                    "height": 246
+                }
+            }
+        ]
+    },
+    {
+        "image": "21.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 248,
+                    "height": 228
+                }
+            }
+        ]
+    },
+    {
+        "image": "22.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 322,
+                    "height": 264
+                }
+            }
+        ]
+    },
+    {
+        "image": "23.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 184,
+                    "height": 172
+                }
+            }
+        ]
+    },
+    {
+        "image": "24.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 370,
+                    "height": 304
+                }
+            }
+        ]
+    },
+    {
+        "image": "25.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 150,
+                    "height": 168
+                }
+            }
+        ]
+    },
+    {
+        "image": "26.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 178,
+                    "height": 188
+                }
+            }
+        ]
+    },
+    {
+        "image": "27.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 290,
+                    "height": 268
+                }
+            }
+        ]
+    },
+    {
+        "image": "28.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 262,
+                    "height": 274
+                }
+            }
+        ]
+    },
+    {
+        "image": "29.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 194,
+                    "height": 174
+                }
+            }
+        ]
+    },
+    {
+        "image": "3.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 244,
+                    "height": 270
+                }
+            }
+        ]
+    },
+    {
+        "image": "30.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 206,
+                    "height": 234
+                }
+            }
+        ]
+    },
+    {
+        "image": "31.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 310,
+                    "height": 312
+                }
+            }
+        ]
+    },
+    {
+        "image": "32.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 204,
+                    "height": 198
+                }
+            }
+        ]
+    },
+    {
+        "image": "33.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 206,
+                    "height": 214
+                }
+            }
+        ]
+    },
+    {
+        "image": "34.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 150,
+                    "height": 170
+                }
+            }
+        ]
+    },
+    {
+        "image": "35.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 546,
+                    "height": 450
+                }
+            }
+        ]
+    },
+    {
+        "image": "36.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 346,
+                    "height": 318
+                }
+            }
+        ]
+    },
+    {
+        "image": "37.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 200,
+                    "height": 190
+                }
+            }
+        ]
+    },
+    {
+        "image": "38.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 258,
+                    "height": 260
+                }
+            }
+        ]
+    },
+    {
+        "image": "39.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 282,
+                    "height": 272
+                }
+            }
+        ]
+    },
+    {
+        "image": "4.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 302,
+                    "height": 278
+                }
+            }
+        ]
+    },
+    {
+        "image": "40.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 158,
+                    "height": 172
+                }
+            }
+        ]
+    },
+    {
+        "image": "41.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 192,
+                    "height": 200
+                }
+            }
+        ]
+    },
+    {
+        "image": "42.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 242,
+                    "height": 276
+                }
+            }
+        ]
+    },
+    {
+        "image": "43.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 236,
+                    "height": 254
+                }
+            }
+        ]
+    },
+    {
+        "image": "44.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 278,
+                    "height": 280
+                }
+            }
+        ]
+    },
+    {
+        "image": "45.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 306,
+                    "height": 318
+                }
+            }
+        ]
+    },
+    {
+        "image": "46.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 504,
+                    "height": 414
+                }
+            }
+        ]
+    },
+    {
+        "image": "47.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 378,
+                    "height": 400
+                }
+            }
+        ]
+    },
+    {
+        "image": "48.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 234,
+                    "height": 260
+                }
+            }
+        ]
+    },
+    {
+        "image": "49.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 170,
+                    "height": 188
+                }
+            }
+        ]
+    },
+    {
+        "image": "5.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 316,
+                    "height": 254
+                }
+            }
+        ]
+    },
+    {
+        "image": "50.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 274,
+                    "height": 258
+                }
+            }
+        ]
+    },
+    {
+        "image": "51.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 272,
+                    "height": 274
+                }
+            }
+        ]
+    },
+    {
+        "image": "52.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 180,
+                    "height": 196
+                }
+            }
+        ]
+    },
+    {
+        "image": "53.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 302,
+                    "height": 296
+                }
+            }
+        ]
+    },
+    {
+        "image": "54.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 226,
+                    "height": 234
+                }
+            }
+        ]
+    },
+    {
+        "image": "55.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 238,
+                    "height": 244
+                }
+            }
+        ]
+    },
+    {
+        "image": "56.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 154,
+                    "height": 166
+                }
+            }
+        ]
+    },
+    {
+        "image": "57.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 160,
+                    "height": 142
+                }
+            }
+        ]
+    },
+    {
+        "image": "58.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 218,
+                    "height": 216
+                }
+            }
+        ]
+    },
+    {
+        "image": "59.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 300,
+                    "height": 286
+                }
+            }
+        ]
+    },
+    {
+        "image": "6.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 230,
+                    "height": 224
+                }
+            }
+        ]
+    },
+    {
+        "image": "60.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 304,
+                    "height": 286
+                }
+            }
+        ]
+    },
+    {
+        "image": "61.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 248,
+                    "height": 248
+                }
+            }
+        ]
+    },
+    {
+        "image": "62.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 214,
+                    "height": 204
+                }
+            }
+        ]
+    },
+    {
+        "image": "63.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 456,
+                    "height": 500
+                }
+            }
+        ]
+    },
+    {
+        "image": "64.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 260,
+                    "height": 252
+                }
+            }
+        ]
+    },
+    {
+        "image": "65.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 400,
+                    "height": 370
+                }
+            }
+        ]
+    },
+    {
+        "image": "66.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 282,
+                    "height": 304
+                }
+            }
+        ]
+    },
+    {
+        "image": "67.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 400,
+                    "height": 388
+                }
+            }
+        ]
+    },
+    {
+        "image": "68.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 142,
+                    "height": 134
+                }
+            }
+        ]
+    },
+    {
+        "image": "69.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 352,
+                    "height": 338
+                }
+            }
+        ]
+    },
+    {
+        "image": "7.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 232,
+                    "height": 206
+                }
+            }
+        ]
+    },
+    {
+        "image": "70.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 232,
+                    "height": 248
+                }
+            }
+        ]
+    },
+    {
+        "image": "71.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 260,
+                    "height": 254
+                }
+            }
+        ]
+    },
+    {
+        "image": "72.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 438,
+                    "height": 404
+                }
+            }
+        ]
+    },
+    {
+        "image": "73.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 314,
+                    "height": 332
+                }
+            }
+        ]
+    },
+    {
+        "image": "74.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 250,
+                    "height": 226
+                }
+            }
+        ]
+    },
+    {
+        "image": "75.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 158,
+                    "height": 166
+                }
+            }
+        ]
+    },
+    {
+        "image": "76.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 320,
+                    "height": 346
+                }
+            }
+        ]
+    },
+    {
+        "image": "77.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 288,
+                    "height": 292
+                }
+            }
+        ]
+    },
+    {
+        "image": "78.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 356,
+                    "height": 324
+                }
+            }
+        ]
+    },
+    {
+        "image": "79.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 246,
+                    "height": 210
+                }
+            }
+        ]
+    },
+    {
+        "image": "8.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 196,
+                    "height": 208
+                }
+            }
+        ]
+    },
+    {
+        "image": "80.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 294,
+                    "height": 332
+                }
+            }
+        ]
+    },
+    {
+        "image": "81.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 246,
+                    "height": 258
+                }
+            }
+        ]
+    },
+    {
+        "image": "82.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 360,
+                    "height": 398
+                }
+            }
+        ]
+    },
+    {
+        "image": "83.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 292,
+                    "height": 292
+                }
+            }
+        ]
+    },
+    {
+        "image": "84.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 304,
+                    "height": 286
+                }
+            }
+        ]
+    },
+    {
+        "image": "85.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 198,
+                    "height": 196
+                }
+            }
+        ]
+    },
+    {
+        "image": "86.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 280,
+                    "height": 310
+                }
+            }
+        ]
+    },
+    {
+        "image": "87.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 204,
+                    "height": 214
+                }
+            }
+        ]
+    },
+    {
+        "image": "88.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 302,
+                    "height": 324
+                }
+            }
+        ]
+    },
+    {
+        "image": "89.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 180,
+                    "height": 188
+                }
+            }
+        ]
+    },
+    {
+        "image": "9.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 268,
+                    "height": 252
+                }
+            }
+        ]
+    },
+    {
+        "image": "90.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 576,
+                    "height": 524
+                }
+            }
+        ]
+    },
+    {
+        "image": "91.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 282,
+                    "height": 266
+                }
+            }
+        ]
+    },
+    {
+        "image": "92.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 196,
+                    "height": 206
+                }
+            }
+        ]
+    },
+    {
+        "image": "93.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 284,
+                    "height": 290
+                }
+            }
+        ]
+    },
+    {
+        "image": "94.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 258,
+                    "height": 276
+                }
+            }
+        ]
+    },
+    {
+        "image": "95.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 326,
+                    "height": 314
+                }
+            }
+        ]
+    },
+    {
+        "image": "96.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 278,
+                    "height": 260
+                }
+            }
+        ]
+    },
+    {
+        "image": "97.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 508,
+                    "height": 464
+                }
+            }
+        ]
+    },
+    {
+        "image": "98.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 310,
+                    "height": 298
+                }
+            }
+        ]
+    },
+    {
+        "image": "99.png",
+        "annotations": [
+            {
+                "label": "baseball_field",
+                "coordinates": {
+                    "x": 0,
+                    "y": 0,
+                    "width": 434,
+                    "height": 406
+                }
+            }
+        ]
+    }
+]
